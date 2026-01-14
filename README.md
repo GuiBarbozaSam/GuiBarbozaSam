@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Guilherme Barboza Sampaio
 
-**`Ciêntista de Dados`** **`Cientista de Dados`**
+**`Ciêntista de Dados`** **`Técnico em Informática`**
 
 Me chamo Guilherme Barboza Sampaio, tenho 21 anos. Concluí o ensino médio Integral, com o curso técnico em informática no "[CTI (Colégio Técnico Industrial)](https://cti.feb.unesp.br/)" de Bauru. Formei-me como Ciêntista de Dados na Uninter em 2025, Trabalhei por dois anos como Jovem Aprendiz na AES Brasil e Auren Energia e Atualmente, estou aprimorando meu conhecimentos para utilização de IA e Automações usando IA e RPA.
 
