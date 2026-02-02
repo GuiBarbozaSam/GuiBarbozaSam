@@ -113,6 +113,14 @@ Me chamo Guilherme Barboza Sampaio, tenho 21 anos. Concluí o ensino médio Inte
 />
 <img 
     align="left" 
+    alt=".Net" 
+    title=".Net"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+/>
+<img 
+    align="left" 
     alt="C++" 
     title="C++"
     width="30px" 
