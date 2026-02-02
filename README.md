@@ -5,7 +5,7 @@
 Me chamo Guilherme Barboza Sampaio, tenho 21 anos. Concluí o ensino médio Integral, com o curso técnico em informática no "[CTI (Colégio Técnico Industrial)](https://cti.feb.unesp.br/)" de Bauru. Formei-me como Ciêntista de Dados na Uninter em 2025, Trabalhei por dois anos como Jovem Aprendiz na AES Brasil e Auren Energia e Atualmente, estou aprimorando meus conhecimentos para utilização de IA e Automações usando IA e RPA.
 
 <p align="left">
-    <a href="www.linkedin.com/in/guilherme-barboza-sampaio/">
+    <a href="www.linkedin.com/in/guilherme-barboza-sampaio/" target="_blank">
         <img 
             alt="Linkedin" 
             width=110
