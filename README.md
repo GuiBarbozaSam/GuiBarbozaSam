@@ -6,13 +6,13 @@ Me chamo Guilherme Barboza Sampaio, tenho 21 anos. Concluí o ensino médio Inte
 
 <p align="left">
     <a href="https://www.linkedin.com/in/guilherme-barboza-sampaio/" target="_blank" rel="noopener noreferrer">
-        <img 
-            alt="Linkedin" 
-            width="110"
-            title="Meu Linkedin" 
-            src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png.original.png"
-        />
-    </a>
+    <img 
+        alt="Linkedin" 
+        width="110"
+        title="Meu Linkedin"
+        src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png.original.png"
+    />
+</a>
     <a href="https://github.com/GuiBarbozaSam?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
