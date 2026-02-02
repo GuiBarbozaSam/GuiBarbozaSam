@@ -5,21 +5,22 @@
 Me chamo Guilherme Barboza Sampaio, tenho 21 anos. Concluí o ensino médio Integral, com o curso técnico em informática no "[CTI (Colégio Técnico Industrial)](https://cti.feb.unesp.br/)" de Bauru. Formei-me como Ciêntista de Dados na Uninter em 2025, Trabalhei por dois anos como Jovem Aprendiz na AES Brasil e Auren Energia e Atualmente, estou aprimorando meus conhecimentos para utilização de IA e Automações usando IA e RPA.
 
 <p align="left">
-    <a href="www.linkedin.com/in/guilherme-barboza-sampaio/" target="_blank">
+    <a href="https://www.linkedin.com/in/guilherme-barboza-sampaio/" target="_blank" rel="noopener noreferrer">
         <img 
             alt="Linkedin" 
-            width=110
-            height=auto
+            width="110"
             title="Meu Linkedin" 
-            src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png.original.png"/></a>
-<a href="https://github.com/GuiBarbozaSam?tab=repositories&sort=stargazers">
+            src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png.original.png"
+        />
+    </a>
+    <a href="https://github.com/GuiBarbozaSam?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/GuiBarbozaSam?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-<a href="https://github.com/GuiBarbozaSam?tab=followers">
+    <a href="https://github.com/GuiBarbozaSam?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
